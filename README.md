@@ -1,6 +1,6 @@
 ### Vehicle Rental System – Database Design & Queries
 
- **User Table :
+ ##User Table :
  
 | u_id | name  | email                                     | phone_number | role     |
 | ---- | ----- | ----------------------------------------- | ------------ | -------- |
